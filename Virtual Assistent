@@ -1,0 +1,15 @@
+<h1>Assistente Virtual</h1>
+
+>Status: Desenvolvimento ⚠️
+
+### Projeto que desenvolvi, com microsoft.speech.dll, com apenas 1 form, do win forms application captando a voz do seu usuário único.
+
+## Este form, composto apenas por uma barra de progresso para sintese do máximo e mínimo da voz, contém uma imagem de fundo do assistente e um botão de fechar aplicação.
+
+* Como usar a aplicação: 
+* 1: Baixe o visual studio
+* 2: instale os pacotes de síntese de voz SDK da microsoft
+* 3: Rode a aplicação pelo Visual Studio ou pelo programa na pasta Bin/Debug do projeto
+
+*Tecnologias usadas
+1:Visual Studio + Windows Forms Application + APIs 
